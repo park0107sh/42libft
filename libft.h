@@ -6,7 +6,7 @@
 /*   By: thomkim <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/02/21 15:57:46 by thomkim           #+#    #+#             */
-/*   Updated: 2018/03/08 19:59:35 by thomkim          ###   ########.fr       */
+/*   Updated: 2018/03/11 15:05:56 by thomkim          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -109,5 +109,5 @@ int					ft_islower(int c);
 int					ft_wordcount(char const *str, char c);
 char				*ft_strndup(const char *s1, size_t n);
 int					ft_iseven(int c);
-
+int					ft_intlen(int n);
 #endif

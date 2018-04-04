@@ -6,7 +6,7 @@
 #    By: thomkim <marvin@42.fr>                     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2018/03/03 16:00:13 by thomkim           #+#    #+#              #
-#    Updated: 2018/03/07 19:05:40 by thomkim          ###   ########.fr        #
+#    Updated: 2018/03/11 15:05:39 by thomkim          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -83,6 +83,7 @@ SRCS =	ft_putchar.c \
 		ft_lstiter.c \
 		ft_lstmap.c \
 		ft_wordcount.c \
+		ft_intlen.c \
 
 OBJS =	$(SRCS:.c=.o)
 
